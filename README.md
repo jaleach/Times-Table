@@ -1,4 +1,4 @@
 # Times-Table
-##Times Table Mobile
+##Times Table Mobile App
 ####Tools Used
   * Xcode and Swift
